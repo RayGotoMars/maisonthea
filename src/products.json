@@ -1,0 +1,65 @@
+[
+  {
+    "slug": "riviera",
+    "name": "The Riviera",
+    "nameZh": "里维埃拉",
+    "price": 42,
+    "shape": "visor",
+    "crown": { "en": "Open crown", "zh": "空顶" },
+    "short": {
+      "en": "Open-crown visor brim. Ponytail-friendly, the coolest of the three.",
+      "zh": "空顶大帽檐，可以扎马尾，三款里最凉快。"
+    },
+    "long": {
+      "en": "An open-crown visor with a wide, soft brim. Nothing sits on top of your head, so it stays cool on the hottest afternoons and leaves room for a ponytail or a bun. Fold it, roll it, drop it in your bag.",
+      "zh": "空顶设计，大而柔软的帽檐。头顶完全不闷，最热的下午也凉快，扎马尾、盘发都能戴。可以折、可以卷，随手放进包里。"
+    },
+    "colors": [
+      { "name": "Pearl", "nameZh": "珍珠白", "hex": "#E9DFCC" },
+      { "name": "Espresso", "nameZh": "浓咖", "hex": "#2A2521" }
+    ],
+    "checkoutUrl": ""
+  },
+  {
+    "slug": "malibu",
+    "name": "The Malibu",
+    "nameZh": "马里布",
+    "price": 45,
+    "shape": "band",
+    "crown": { "en": "Open crown", "zh": "空顶" },
+    "short": {
+      "en": "A taller open band with a soft, sculpted brim for full-face shade.",
+      "zh": "加高的空顶帽圈，帽檐有型，整张脸都能遮住。"
+    },
+    "long": {
+      "en": "A taller open band gives the Malibu a little more structure, and its sculpted brim shades the whole face. Breezy on top, polished from every angle: the one for the boat, the pool and the lunch after.",
+      "zh": "加高的空顶帽圈让马里布更有型，帽檐弧度能遮住整张脸。头顶透风，从哪个角度看都利落。出海、泳池边、之后的午餐，都是它。"
+    },
+    "colors": [
+      { "name": "Khaki", "nameZh": "卡其", "hex": "#CDBFA6" },
+      { "name": "Ivory", "nameZh": "象牙白", "hex": "#F3EEE6" }
+    ],
+    "checkoutUrl": ""
+  },
+  {
+    "slug": "signature",
+    "name": "The Signature",
+    "nameZh": "经典款",
+    "price": 48,
+    "shape": "closed",
+    "crown": { "en": "Closed crown", "zh": "封顶" },
+    "short": {
+      "en": "Our classic closed crown. Full coverage, office to ocean.",
+      "zh": "经典封顶款，头顶全遮，上班出海都合适。"
+    },
+    "long": {
+      "en": "The hat the house is built on. A rounded closed crown and a generous brim give full coverage from your part line to your shoulders. Quiet enough for the office, made for the coast.",
+      "zh": "品牌的起点。圆润的封顶加上宽大的帽檐，从头顶到肩膀都遮得住。上班戴足够低调，海边戴刚刚好。"
+    },
+    "colors": [
+      { "name": "Espresso", "nameZh": "浓咖", "hex": "#2A2521" },
+      { "name": "Champagne", "nameZh": "香槟", "hex": "#B9A27C" }
+    ],
+    "checkoutUrl": ""
+  }
+]
